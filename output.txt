@@ -1,231 +1,1848 @@
 Data type : Random
 Data size : 10000
 Sort type : Selection sort
-Number of assignment : 50130144
+Number of assignment : 50129748
 Number of comparison : 100009999
-Time : 0.142
+Time : 0.201
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Insertion sort
-Number of assignment : 49578451
-Number of comparison : 49568441
-Time : 0.076
+Number of assignment : 50637347
+Number of comparison : 50627341
+Time : 0.114
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Bubble sort
-Number of assignment : 125180917
+Number of assignment : 125911024
 Number of comparison : 100009999
-Time : 0.401
+Time : 0.394
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Heap sort
-Number of assignment : 1045897
-Number of comparison : 661011
-Time : 0.002
+Number of assignment : 1044800
+Number of comparison : 660431
+Time : 0.003
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Counting sort
-Number of assignment : 90007
-Number of comparison : 69999
-Time : 0.001
----------------------------------
-Data type : Random
-Data size : 10000
-Sort type : Radix sort
-Number of assignment : 290106
-Number of comparison : 140056
+Number of assignment : 90013
+Number of comparison : 70002
 Time : 0
 ---------------------------------
 Data type : Random
 Data size : 10000
-Sort type : Quick sort
-Number of assignment : 449293
-Number of comparison : 297981
+Sort type : Radix sort
+Number of assignment : 290109
+Number of comparison : 140056
 Time : 0.001
+---------------------------------
+Data type : Random
+Data size : 10000
+Sort type : Quick sort
+Number of assignment : 463751
+Number of comparison : 300040
+Time : 0.002
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Merge sort
 Number of assignment : 100087
-Number of comparison : 80014
-Time : 0.003
+Number of comparison : 80009
+Time : 0.004
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Shell sort
-Number of assignment : 649923
-Number of comparison : 264959
+Number of assignment : 664767
+Number of comparison : 272381
 Time : 0.002
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Shaker sort
-Number of assignment : 112941822
-Number of comparison : 37778431
-Time : 0.237
+Number of assignment : 113662040
+Number of comparison : 37768541
+Time : 0.244
 ---------------------------------
 Data type : Random
 Data size : 10000
 Sort type : Flash sort
-Number of assignment : 125982
-Number of comparison : 86607
-Time : 0.001
+Number of assignment : 126534
+Number of comparison : 87453
+Time : 0
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Selection sort
-Number of assignment : 450428073
+Number of assignment : 450423163
 Number of comparison : 900029999
-Time : 1.369
+Time : 1.759
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Insertion sort
-Number of assignment : 451254609
-Number of comparison : 451224604
-Time : 0.75
+Number of assignment : 448268113
+Number of comparison : 448238098
+Time : 1.01
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Bubble sort
-Number of assignment : 1126746917
+Number of assignment : 1128671627
 Number of comparison : 900029999
-Time : 3.744
+Time : 3.685
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Heap sort
-Number of assignment : 3539953
-Number of comparison : 2219436
-Time : 0.008
+Number of assignment : 3539709
+Number of comparison : 2219401
+Time : 0.007
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Counting sort
-Number of assignment : 270010
-Number of comparison : 209999
-Time : 0.001
+Number of assignment : 270011
+Number of comparison : 210002
+Time : 0
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Radix sort
-Number of assignment : 1080134
+Number of assignment : 1080132
 Number of comparison : 510070
 Time : 0.003
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Quick sort
-Number of assignment : 1556362
-Number of comparison : 993204
-Time : 0.004
+Number of assignment : 1540837
+Number of comparison : 1016708
+Time : 0.005
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Merge sort
 Number of assignment : 300086
-Number of comparison : 239979
-Time : 0.01
+Number of comparison : 240001
+Time : 0.011
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Shell sort
-Number of assignment : 2263851
-Number of comparison : 936922
-Time : 0.006
+Number of assignment : 2344527
+Number of comparison : 977260
+Time : 0.005
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Shaker sort
-Number of assignment : 1009182639
-Number of comparison : 336778847
-Time : 2.109
+Number of assignment : 1015915215
+Number of comparison : 338517687
+Time : 2.378
 ---------------------------------
 Data type : Random
 Data size : 30000
 Sort type : Flash sort
-Number of assignment : 380884
-Number of comparison : 281738
-Time : 0.001
+Number of assignment : 380741
+Number of comparison : 272251
+Time : 0.002
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Selection sort
-Number of assignment : 1250729198
+Number of assignment : 1250730198
 Number of comparison : 2500049999
-Time : 3.598
+Time : 4.907
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Insertion sort
-Number of assignment : 1249593837
-Number of comparison : 1249543826
-Time : 1.935
+Number of assignment : 1248695451
+Number of comparison : 1248645448
+Time : 2.819
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Bubble sort
-Number of assignment : 3125355796
+Number of assignment : 3128576617
 Number of comparison : 2500049999
-Time : 10.192
+Time : 10.352
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Heap sort
-Number of assignment : 6216001
-Number of comparison : 3885631
-Time : 0.015
+Number of assignment : 6218861
+Number of comparison : 3887381
+Time : 0.013
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Counting sort
-Number of assignment : 398320
-Number of comparison : 298306
+Number of assignment : 398314
+Number of comparison : 298303
 Time : 0.001
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Radix sort
-Number of assignment : 1800137
+Number of assignment : 1800134
 Number of comparison : 850070
-Time : 0.005
+Time : 0.006
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Quick sort
-Number of assignment : 2729710
-Number of comparison : 1796294
-Time : 0.008
+Number of assignment : 2809842
+Number of comparison : 1804779
+Time : 0.007
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Merge sort
 Number of assignment : 500100
-Number of comparison : 400001
-Time : 0.017
+Number of comparison : 400009
+Time : 0.02
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Shell sort
-Number of assignment : 4868810
-Number of comparison : 2084402
-Time : 0.012
+Number of assignment : 4380832
+Number of comparison : 1840413
+Time : 0.01
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Shaker sort
-Number of assignment : 2823816481
-Number of comparison : 941487199
-Time : 6.126
+Number of assignment : 2812591288
+Number of comparison : 938648941
+Time : 6.51
 ---------------------------------
 Data type : Random
 Data size : 50000
 Sort type : Flash sort
-Number of assignment : 611869
-Number of comparison : 449074
+Number of assignment : 611090
+Number of comparison : 463339
 Time : 0.003
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Selection sort
+Number of assignment : 5001490012
+Number of comparison : 10000099999
+Time : 19.591
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Insertion sort
+Number of assignment : 4985100869
+Number of comparison : 4985000860
+Time : 11.345
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Bubble sort
+Number of assignment : 12504058234
+Number of comparison : 10000099999
+Time : 42.057
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Heap sort
+Number of assignment : 13289620
+Number of comparison : 8275426
+Time : 0.03
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Counting sort
+Number of assignment : 698318
+Number of comparison : 498306
+Time : 0.002
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Radix sort
+Number of assignment : 3600135
+Number of comparison : 1700070
+Time : 0.011
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Quick sort
+Number of assignment : 6310165
+Number of comparison : 3945927
+Time : 0.016
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Merge sort
+Number of assignment : 1000109
+Number of comparison : 799985
+Time : 0.04
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Shell sort
+Number of assignment : 9940468
+Number of comparison : 4220231
+Time : 0.024
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Shaker sort
+Number of assignment : 11251372206
+Number of comparison : 3760378367
+Time : 26.526
+---------------------------------
+Data type : Random
+Data size : 100000
+Sort type : Flash sort
+Number of assignment : 1126793
+Number of comparison : 821130
+Time : 0.005
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Selection sort
+Number of assignment : 45004564417
+Number of comparison : 90000299999
+Time : 177.354
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Insertion sort
+Number of assignment : 44948491249
+Number of comparison : 44948191245
+Time : 100.704
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Bubble sort
+Number of assignment : 112519394795
+Number of comparison : 90000299999
+Time : 377.61
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Heap sort
+Number of assignment : 43874530
+Number of comparison : 27181801
+Time : 0.097
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Counting sort
+Number of assignment : 1898322
+Number of comparison : 1298306
+Time : 0.004
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Radix sort
+Number of assignment : 10800139
+Number of comparison : 5100070
+Time : 0.031
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Quick sort
+Number of assignment : 24887521
+Number of comparison : 14223847
+Time : 0.059
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Merge sort
+Number of assignment : 3000117
+Number of comparison : 2399971
+Time : 0.125
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Shell sort
+Number of assignment : 36250884
+Number of comparison : 15575438
+Time : 0.082
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Shaker sort
+Number of assignment : 101291994716
+Number of comparison : 33772189047
+Time : 296.493
+---------------------------------
+Data type : Random
+Data size : 300000
+Sort type : Flash sort
+Number of assignment : 3441278
+Number of comparison : 2574667
+Time : 0.016
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Selection sort
+Number of assignment : 125007720769
+Number of comparison : 250000499999
+Time : 490.92
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Insertion sort
+Number of assignment : 125024434995
+Number of comparison : 125023934984
+Time : 280.813
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Bubble sort
+Number of assignment : 312546571978
+Number of comparison : 250000499999
+Time : 1046.26
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Heap sort
+Number of assignment : 76230528
+Number of comparison : 47121836
+Time : 0.169
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Counting sort
+Number of assignment : 3098318
+Number of comparison : 2098306
+Time : 0.006
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Radix sort
+Number of assignment : 18000135
+Number of comparison : 8500070
+Time : 0.052
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Quick sort
+Number of assignment : 49818041
+Number of comparison : 27110457
+Time : 0.11
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Merge sort
+Number of assignment : 5000122
+Number of comparison : 4000002
+Time : 0.21
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Shell sort
+Number of assignment : 64314941
+Number of comparison : 27907467
+Time : 0.143
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Shaker sort
+Number of assignment : 281039767447
+Number of comparison : 93737498749
+Time : 651.335
+---------------------------------
+Data type : Random
+Data size : 500000
+Sort type : Flash sort
+Number of assignment : 5757248
+Number of comparison : 4390770
+Time : 0.028
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Selection sort
+Number of assignment : 50054995
+Number of comparison : 100009999
+Time : 0.195
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Insertion sort
+Number of assignment : 39997
+Number of comparison : 29998
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Bubble sort
+Number of assignment : 50014999
+Number of comparison : 100009999
+Time : 0.195
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Heap sort
+Number of assignment : 1114284
+Number of comparison : 699786
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Counting sort
+Number of assignment : 100005
+Number of comparison : 70002
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Radix sort
+Number of assignment : 300101
+Number of comparison : 140056
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Quick sort
+Number of assignment : 385219
+Number of comparison : 256783
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Merge sort
+Number of assignment : 100087
+Number of comparison : 60052
+Time : 0.003
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Shell sort
+Number of assignment : 360015
+Number of comparison : 120005
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Shaker sort
+Number of assignment : 19997
+Number of comparison : 19997
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 10000
+Sort type : Flash sort
+Number of assignment : 162900
+Number of comparison : 112899
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Selection sort
+Number of assignment : 450164995
+Number of comparison : 900029999
+Time : 1.758
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Insertion sort
+Number of assignment : 119997
+Number of comparison : 89998
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Bubble sort
+Number of assignment : 450044999
+Number of comparison : 900029999
+Time : 1.778
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Heap sort
+Number of assignment : 3721077
+Number of comparison : 2320506
+Time : 0.007
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Counting sort
+Number of assignment : 300005
+Number of comparison : 210002
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Radix sort
+Number of assignment : 1110126
+Number of comparison : 510070
+Time : 0.003
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Quick sort
+Number of assignment : 1292739
+Number of comparison : 856412
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Merge sort
+Number of assignment : 300086
+Number of comparison : 180053
+Time : 0.009
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Shell sort
+Number of assignment : 1170021
+Number of comparison : 390007
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Shaker sort
+Number of assignment : 59997
+Number of comparison : 59997
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 30000
+Sort type : Flash sort
+Number of assignment : 488700
+Number of comparison : 338699
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Selection sort
+Number of assignment : 1250274995
+Number of comparison : 2500049999
+Time : 4.884
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Insertion sort
+Number of assignment : 199997
+Number of comparison : 149998
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Bubble sort
+Number of assignment : 1250074999
+Number of comparison : 2500049999
+Time : 4.871
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Heap sort
+Number of assignment : 6537972
+Number of comparison : 4066526
+Time : 0.012
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Counting sort
+Number of assignment : 500005
+Number of comparison : 350002
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Radix sort
+Number of assignment : 1850126
+Number of comparison : 850070
+Time : 0.005
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Quick sort
+Number of assignment : 2309456
+Number of comparison : 1532798
+Time : 0.005
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Merge sort
+Number of assignment : 500100
+Number of comparison : 300060
+Time : 0.015
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Shell sort
+Number of assignment : 2100018
+Number of comparison : 700006
+Time : 0.003
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Shaker sort
+Number of assignment : 99997
+Number of comparison : 99997
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 50000
+Sort type : Flash sort
+Number of assignment : 814500
+Number of comparison : 564499
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Selection sort
+Number of assignment : 5000549995
+Number of comparison : 10000099999
+Time : 19.494
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Insertion sort
+Number of assignment : 399997
+Number of comparison : 299998
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Bubble sort
+Number of assignment : 5000149999
+Number of comparison : 10000099999
+Time : 19.513
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Heap sort
+Number of assignment : 13959163
+Number of comparison : 8654276
+Time : 0.025
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Counting sort
+Number of assignment : 1000005
+Number of comparison : 700002
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Radix sort
+Number of assignment : 3700126
+Number of comparison : 1700070
+Time : 0.01
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Quick sort
+Number of assignment : 4918881
+Number of comparison : 3265568
+Time : 0.01
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Merge sort
+Number of assignment : 1000109
+Number of comparison : 600065
+Time : 0.031
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Shell sort
+Number of assignment : 4500018
+Number of comparison : 1500006
+Time : 0.007
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Shaker sort
+Number of assignment : 199997
+Number of comparison : 199997
+Time : 0
+---------------------------------
+Data type : Sorted
+Data size : 100000
+Sort type : Flash sort
+Number of assignment : 1629000
+Number of comparison : 1128999
+Time : 0.005
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Selection sort
+Number of assignment : 45001649995
+Number of comparison : 90000299999
+Time : 175.129
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Insertion sort
+Number of assignment : 1199997
+Number of comparison : 899998
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Bubble sort
+Number of assignment : 45000449999
+Number of comparison : 90000299999
+Time : 175.885
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Heap sort
+Number of assignment : 45783033
+Number of comparison : 28255806
+Time : 0.085
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Counting sort
+Number of assignment : 3000005
+Number of comparison : 2100002
+Time : 0.006
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Radix sort
+Number of assignment : 13200151
+Number of comparison : 6000084
+Time : 0.038
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Quick sort
+Number of assignment : 15909908
+Number of comparison : 10596105
+Time : 0.032
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Merge sort
+Number of assignment : 3000117
+Number of comparison : 1800071
+Time : 0.098
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Shell sort
+Number of assignment : 15300024
+Number of comparison : 5100008
+Time : 0.023
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Shaker sort
+Number of assignment : 599997
+Number of comparison : 599997
+Time : 0.001
+---------------------------------
+Data type : Sorted
+Data size : 300000
+Sort type : Flash sort
+Number of assignment : 4887000
+Number of comparison : 3386999
+Time : 0.015
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Selection sort
+Number of assignment : 125002749995
+Number of comparison : 250000499999
+Time : 485.615
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Insertion sort
+Number of assignment : 1999997
+Number of comparison : 1499998
+Time : 0.004
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Bubble sort
+Number of assignment : 125000749999
+Number of comparison : 250000499999
+Time : 490.221
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Heap sort
+Number of assignment : 79235288
+Number of comparison : 48778506
+Time : 0.149
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Counting sort
+Number of assignment : 5000005
+Number of comparison : 3500002
+Time : 0.01
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Radix sort
+Number of assignment : 22000151
+Number of comparison : 10000084
+Time : 0.064
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Quick sort
+Number of assignment : 27605031
+Number of comparison : 18262180
+Time : 0.055
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Merge sort
+Number of assignment : 5000122
+Number of comparison : 3000073
+Time : 0.163
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Shell sort
+Number of assignment : 25500021
+Number of comparison : 8500007
+Time : 0.038
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Shaker sort
+Number of assignment : 999997
+Number of comparison : 999997
+Time : 0.002
+---------------------------------
+Data type : Sorted
+Data size : 500000
+Sort type : Flash sort
+Number of assignment : 8145000
+Number of comparison : 5644999
+Time : 0.025
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Selection sort
+Number of assignment : 75054995
+Number of comparison : 100009999
+Time : 0.21
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Insertion sort
+Number of assignment : 100029997
+Number of comparison : 100009999
+Time : 0.224
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Bubble sort
+Number of assignment : 199999999
+Number of comparison : 100009999
+Time : 0.475
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Heap sort
+Number of assignment : 980499
+Number of comparison : 623486
+Time : 0.002
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Counting sort
+Number of assignment : 90006
+Number of comparison : 70002
+Time : 0
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Radix sort
+Number of assignment : 290102
+Number of comparison : 140056
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Quick sort
+Number of assignment : 808129
+Number of comparison : 482041
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Merge sort
+Number of assignment : 100087
+Number of comparison : 60057
+Time : 0.003
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Shell sort
+Number of assignment : 485135
+Number of comparison : 182565
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Shaker sort
+Number of assignment : 199980000
+Number of comparison : 50000000
+Time : 0.359
+---------------------------------
+Data type : Reverse
+Data size : 10000
+Sort type : Flash sort
+Number of assignment : 147114
+Number of comparison : 97854
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Selection sort
+Number of assignment : 675164995
+Number of comparison : 900029999
+Time : 1.895
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Insertion sort
+Number of assignment : 900089997
+Number of comparison : 900029999
+Time : 2.022
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Bubble sort
+Number of assignment : 1799999999
+Number of comparison : 900029999
+Time : 4.276
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Heap sort
+Number of assignment : 3356027
+Number of comparison : 2116066
+Time : 0.006
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Counting sort
+Number of assignment : 270006
+Number of comparison : 210002
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Radix sort
+Number of assignment : 1080127
+Number of comparison : 510070
+Time : 0.003
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Quick sort
+Number of assignment : 2823353
+Number of comparison : 1681617
+Time : 0.005
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Merge sort
+Number of assignment : 300086
+Number of comparison : 180055
+Time : 0.009
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Shell sort
+Number of assignment : 1584005
+Number of comparison : 596999
+Time : 0.003
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Shaker sort
+Number of assignment : 1799940000
+Number of comparison : 450000000
+Time : 3.22
+---------------------------------
+Data type : Reverse
+Data size : 30000
+Sort type : Flash sort
+Number of assignment : 441314
+Number of comparison : 293554
+Time : 0.002
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Selection sort
+Number of assignment : 1875274995
+Number of comparison : 2500049999
+Time : 5.244
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Insertion sort
+Number of assignment : 2500149997
+Number of comparison : 2500049999
+Time : 5.585
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Bubble sort
+Number of assignment : 4999999999
+Number of comparison : 2500049999
+Time : 11.826
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Heap sort
+Number of assignment : 5881882
+Number of comparison : 3694466
+Time : 0.011
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Counting sort
+Number of assignment : 450006
+Number of comparison : 350002
+Time : 0.001
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Radix sort
+Number of assignment : 1800127
+Number of comparison : 850070
+Time : 0.005
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Quick sort
+Number of assignment : 5033889
+Number of comparison : 2996593
+Time : 0.01
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Merge sort
+Number of assignment : 500100
+Number of comparison : 300065
+Time : 0.015
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Shell sort
+Number of assignment : 2894578
+Number of comparison : 1097286
+Time : 0.004
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Shaker sort
+Number of assignment : 4999900000
+Number of comparison : 1250000000
+Time : 8.92
+---------------------------------
+Data type : Reverse
+Data size : 50000
+Sort type : Flash sort
+Number of assignment : 735514
+Number of comparison : 489254
+Time : 0.003
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Selection sort
+Number of assignment : 7500549995
+Number of comparison : 10000099999
+Time : 20.684
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Insertion sort
+Number of assignment : 10000299997
+Number of comparison : 10000099999
+Time : 22.312
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Bubble sort
+Number of assignment : 19999999999
+Number of comparison : 10000099999
+Time : 47.437
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Heap sort
+Number of assignment : 12606856
+Number of comparison : 7887176
+Time : 0.025
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Counting sort
+Number of assignment : 900006
+Number of comparison : 700002
+Time : 0.002
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Radix sort
+Number of assignment : 3600127
+Number of comparison : 1700070
+Time : 0.011
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Quick sort
+Number of assignment : 10917465
+Number of comparison : 6492769
+Time : 0.02
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Merge sort
+Number of assignment : 1000109
+Number of comparison : 600071
+Time : 0.031
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Shell sort
+Number of assignment : 6189138
+Number of comparison : 2344566
+Time : 0.009
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Shaker sort
+Number of assignment : 19999800000
+Number of comparison : 5000000000
+Time : 35.92
+---------------------------------
+Data type : Reverse
+Data size : 100000
+Sort type : Flash sort
+Number of assignment : 1471014
+Number of comparison : 978504
+Time : 0.004
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Selection sort
+Number of assignment : 67501649995
+Number of comparison : 90000299999
+Time : 187.545
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Insertion sort
+Number of assignment : 90000899997
+Number of comparison : 90000299999
+Time : 203.094
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Bubble sort
+Number of assignment : 179999999999
+Number of comparison : 90000299999
+Time : 427.222
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Heap sort
+Number of assignment : 41913283
+Number of comparison : 26081236
+Time : 0.082
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Counting sort
+Number of assignment : 2700006
+Number of comparison : 2100002
+Time : 0.006
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Radix sort
+Number of assignment : 12900152
+Number of comparison : 6000084
+Time : 0.038
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Quick sort
+Number of assignment : 36666537
+Number of comparison : 21786865
+Time : 0.069
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Merge sort
+Number of assignment : 3000117
+Number of comparison : 1800075
+Time : 0.096
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Shell sort
+Number of assignment : 20301784
+Number of comparison : 7600888
+Time : 0.031
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Shaker sort
+Number of assignment : 179999400000
+Number of comparison : 45000000000
+Time : 322.905
+---------------------------------
+Data type : Reverse
+Data size : 300000
+Sort type : Flash sort
+Number of assignment : 4413014
+Number of comparison : 2935504
+Time : 0.013
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Selection sort
+Number of assignment : 187502749995
+Number of comparison : 250000499999
+Time : 520.461
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Insertion sort
+Number of assignment : 250001499997
+Number of comparison : 250000499999
+Time : 561.335
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Bubble sort
+Number of assignment : 499999999999
+Number of comparison : 250000499999
+Time : 1191.39
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Heap sort
+Number of assignment : 73047715
+Number of comparison : 45342256
+Time : 0.142
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Counting sort
+Number of assignment : 4500006
+Number of comparison : 3500002
+Time : 0.01
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Radix sort
+Number of assignment : 21500152
+Number of comparison : 10000084
+Time : 0.063
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Quick sort
+Number of assignment : 64189433
+Number of comparison : 38130593
+Time : 0.119
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Merge sort
+Number of assignment : 5000122
+Number of comparison : 3000079
+Time : 0.165
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Shell sort
+Number of assignment : 34357525
+Number of comparison : 12928759
+Time : 0.053
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Shaker sort
+Number of assignment : 499999000000
+Number of comparison : 125000000000
+Time : 897.242
+---------------------------------
+Data type : Reverse
+Data size : 500000
+Sort type : Flash sort
+Number of assignment : 7355014
+Number of comparison : 4892504
+Time : 0.023
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Selection sort
+Number of assignment : 50055015
+Number of comparison : 100009999
+Time : 0.195
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Insertion sort
+Number of assignment : 247833
+Number of comparison : 237834
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Bubble sort
+Number of assignment : 50326753
+Number of comparison : 100009999
+Time : 0.195
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Heap sort
+Number of assignment : 1113035
+Number of comparison : 699136
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Counting sort
+Number of assignment : 90560
+Number of comparison : 70002
+Time : 0
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Radix sort
+Number of assignment : 290656
+Number of comparison : 140056
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Quick sort
+Number of assignment : 1290602
+Number of comparison : 2213369
+Time : 0.005
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Merge sort
+Number of assignment : 100087
+Number of comparison : 69376
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Shell sort
+Number of assignment : 420171
+Number of comparison : 150083
+Time : 0
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Shaker sort
+Number of assignment : 531501
+Number of comparison : 219757
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 10000
+Sort type : Flash sort
+Number of assignment : 153413
+Number of comparison : 112875
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Selection sort
+Number of assignment : 450165015
+Number of comparison : 900029999
+Time : 1.76
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Insertion sort
+Number of assignment : 437745
+Number of comparison : 407746
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Bubble sort
+Number of assignment : 450521621
+Number of comparison : 900029999
+Time : 1.76
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Heap sort
+Number of assignment : 3720690
+Number of comparison : 2320286
+Time : 0.008
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Counting sort
+Number of assignment : 270860
+Number of comparison : 210002
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Radix sort
+Number of assignment : 1080981
+Number of comparison : 510070
+Time : 0.003
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Quick sort
+Number of assignment : 31320358
+Number of comparison : 61773233
+Time : 0.121
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Merge sort
+Number of assignment : 300086
+Number of comparison : 213633
+Time : 0.009
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Shell sort
+Number of assignment : 1331321
+Number of comparison : 470657
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Shaker sort
+Number of assignment : 982029
+Number of comparison : 419901
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 30000
+Sort type : Flash sort
+Number of assignment : 459515
+Number of comparison : 338674
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Selection sort
+Number of assignment : 1250275015
+Number of comparison : 2500049999
+Time : 4.887
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Insertion sort
+Number of assignment : 535429
+Number of comparison : 485430
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Bubble sort
+Number of assignment : 1250578147
+Number of comparison : 2500049999
+Time : 4.897
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Heap sort
+Number of assignment : 6537818
+Number of comparison : 4066466
+Time : 0.012
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Counting sort
+Number of assignment : 467906
+Number of comparison : 350002
+Time : 0.001
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Radix sort
+Number of assignment : 1818027
+Number of comparison : 850070
+Time : 0.005
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Quick sort
+Number of assignment : 21965563
+Number of comparison : 41675977
+Time : 0.083
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Merge sort
+Number of assignment : 500100
+Number of comparison : 315100
+Time : 0.015
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Shell sort
+Number of assignment : 2274458
+Number of comparison : 787226
+Time : 0.004
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Shaker sort
+Number of assignment : 1075843
+Number of comparison : 499949
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 50000
+Sort type : Flash sort
+Number of assignment : 782357
+Number of comparison : 564476
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Selection sort
+Number of assignment : 5000550015
+Number of comparison : 10000099999
+Time : 19.488
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Insertion sort
+Number of assignment : 828585
+Number of comparison : 728586
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Bubble sort
+Number of assignment : 5000792881
+Number of comparison : 10000099999
+Time : 19.487
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Heap sort
+Number of assignment : 13958903
+Number of comparison : 8654216
+Time : 0.027
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Counting sort
+Number of assignment : 970185
+Number of comparison : 700002
+Time : 0.002
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Radix sort
+Number of assignment : 3670306
+Number of comparison : 1700070
+Time : 0.01
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Quick sort
+Number of assignment : 45810167
+Number of comparison : 86136778
+Time : 0.172
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Merge sort
+Number of assignment : 1000109
+Number of comparison : 600065
+Time : 0.03
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Shell sort
+Number of assignment : 4685086
+Number of comparison : 1592540
+Time : 0.007
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Shaker sort
+Number of assignment : 2447430
+Number of comparison : 1599871
+Time : 0.005
+---------------------------------
+Data type : Nearly Sorted
+Data size : 100000
+Sort type : Flash sort
+Number of assignment : 1599134
+Number of comparison : 1128977
+Time : 0.005
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Selection sort
+Number of assignment : 45001650015
+Number of comparison : 90000299999
+Time : 174.807
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Insertion sort
+Number of assignment : 1689865
+Number of comparison : 1389866
+Time : 0.003
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Bubble sort
+Number of assignment : 45001184801
+Number of comparison : 90000299999
+Time : 175.855
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Heap sort
+Number of assignment : 45782796
+Number of comparison : 28255726
+Time : 0.087
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Counting sort
+Number of assignment : 2974356
+Number of comparison : 2100002
+Time : 0.006
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Radix sort
+Number of assignment : 13174502
+Number of comparison : 6000084
+Time : 0.037
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Quick sort
+Number of assignment : 38273818
+Number of comparison : 56122140
+Time : 0.121
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Merge sort
+Number of assignment : 3000117
+Number of comparison : 1800071
+Time : 0.096
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Shell sort
+Number of assignment : 15430760
+Number of comparison : 5165376
+Time : 0.023
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Shaker sort
+Number of assignment : 4761489
+Number of comparison : 4199901
+Time : 0.012
+---------------------------------
+Data type : Nearly Sorted
+Data size : 300000
+Sort type : Flash sort
+Number of assignment : 4861313
+Number of comparison : 3386973
+Time : 0.015
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Selection sort
+Number of assignment : 125002750015
+Number of comparison : 250000499999
+Time : 486.094
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Insertion sort
+Number of assignment : 2359669
+Number of comparison : 1859670
+Time : 0.005
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Bubble sort
+Number of assignment : 125001289507
+Number of comparison : 250000499999
+Time : 489.839
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Heap sort
+Number of assignment : 79235331
+Number of comparison : 48778606
+Time : 0.148
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Counting sort
+Number of assignment : 4968967
+Number of comparison : 3500002
+Time : 0.01
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Radix sort
+Number of assignment : 21969113
+Number of comparison : 10000084
+Time : 0.064
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Quick sort
+Number of assignment : 79064591
+Number of comparison : 122240013
+Time : 0.257
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Merge sort
+Number of assignment : 5000122
+Number of comparison : 3000073
+Time : 0.161
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Shell sort
+Number of assignment : 25587381
+Number of comparison : 8543687
+Time : 0.038
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Shaker sort
+Number of assignment : 5360941
+Number of comparison : 4999949
+Time : 0.013
+---------------------------------
+Data type : Nearly Sorted
+Data size : 500000
+Sort type : Flash sort
+Number of assignment : 8119162
+Number of comparison : 5644973
+Time : 0.025
 ---------------------------------
